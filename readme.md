@@ -1,3 +1,5 @@
+Check me out : <a href="https://jacobwylie.github.io/js-30/"> https://jacobwylie.github.io/js-30/</a>
+
 ![](https://javascript30.com/images/JS3-social-share.png)
 
 # JavaScript30
