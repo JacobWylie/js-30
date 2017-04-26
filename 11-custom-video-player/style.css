@@ -101,7 +101,12 @@ body {
   width:50%;
   background:#ffc600;
   flex:0;
-  flex-basis:50%;
+  flex-basis:0%;
+}
+
+.player:-webkit-full-screen {
+  width: 100%;
+  height: 100%;
 }
 
 /* unholy css to style input type="range" */
