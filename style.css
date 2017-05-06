@@ -13,6 +13,7 @@ img {
   width: 350px;
   margin: 0 auto;
   margin-top: 20px;
+  margin-bottom: 50px
 }
  
 ul {
@@ -23,7 +24,7 @@ ul {
 }
  
 li {
-  font: 200 20px/1.25 Helvetica, Verdana, sans-serif;
+  font: 300 20px/1.45 Helvetica, Verdana, sans-serif;
   border-bottom: 1px solid #ccc;
   padding: 10px 0px;
 }
